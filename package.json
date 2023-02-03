@@ -4,6 +4,8 @@
   "description": "[Hello World](https://ifcjs.github.io/info/docs/Hello%20world)",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c ./rollup.config.js",
+    "watch": "rollup -w -c ./rollup.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
