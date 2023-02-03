@@ -11,5 +11,13 @@
     "ifcjs"
   ],
   "author": "Rudi Farkas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.135.0",
+    "web-ifc-three": "^0.0.121"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^2.79.1"
+  }
 }
