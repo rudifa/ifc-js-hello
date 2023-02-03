@@ -1,0 +1,15 @@
+{
+  "name": "ifc-js-hello",
+  "version": "1.0.0",
+  "description": "[Hello World](https://ifcjs.github.io/info/docs/Hello%20world)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ifc",
+    "ifcjs"
+  ],
+  "author": "Rudi Farkas",
+  "license": "ISC"
+}
